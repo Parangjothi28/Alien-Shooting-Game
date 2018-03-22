@@ -1,0 +1,2 @@
+chmod +x alien-shooting.sh
+./alien-shooting.sh
